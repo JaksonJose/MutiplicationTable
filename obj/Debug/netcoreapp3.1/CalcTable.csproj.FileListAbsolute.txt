@@ -1,0 +1,13 @@
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\bin\Debug\netcoreapp3.1\CalcTable.exe
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\bin\Debug\netcoreapp3.1\CalcTable.deps.json
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\bin\Debug\netcoreapp3.1\CalcTable.runtimeconfig.json
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\bin\Debug\netcoreapp3.1\CalcTable.runtimeconfig.dev.json
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\bin\Debug\netcoreapp3.1\CalcTable.dll
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\bin\Debug\netcoreapp3.1\CalcTable.pdb
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\obj\Debug\netcoreapp3.1\CalcTable.csprojAssemblyReference.cache
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\obj\Debug\netcoreapp3.1\CalcTable.AssemblyInfoInputs.cache
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\obj\Debug\netcoreapp3.1\CalcTable.AssemblyInfo.cs
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\obj\Debug\netcoreapp3.1\CalcTable.csproj.CoreCompileInputs.cache
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\obj\Debug\netcoreapp3.1\CalcTable.dll
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\obj\Debug\netcoreapp3.1\CalcTable.pdb
+C:\Users\JaksonSilva\Documents\projetoCsharp\CalcTable\CalcTable\obj\Debug\netcoreapp3.1\CalcTable.genruntimeconfig.cache
